@@ -1,0 +1,35 @@
+{
+  "name": "brain-games",
+  "version": "1.0.0",
+  "description": "This is a set of casual games",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuriy-Shulga/brain-games.git"
+  },
+  "keywords": [
+    "game",
+    "maths",
+    "cli"
+  ],
+  "author": "Yuriy Shulga",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuriy-Shulga/brain-games/issues"
+  },
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.29.1"
+  }
+}
