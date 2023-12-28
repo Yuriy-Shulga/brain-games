@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "This is a set of casual games",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "main": "index.js",
   "scripts": {
