@@ -12,7 +12,6 @@ const getGreatestCommonDivisor = (num1, num2) => {
 };
 
 const genGameData = () => {
-  console.log('=======');
   const num1 = getRandomNumber(1, 1000);
   const num2 = getRandomNumber(1, 1000);
 
